@@ -15,7 +15,7 @@
 
 ![""](captures/capture4.jpeg)
 
-![""](captures/Capture5.jpeg)
+![""](captures/capture5.jpeg)
 
 4. Ont clique le bouton de création pour créer un budget
 
